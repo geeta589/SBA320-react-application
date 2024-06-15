@@ -1,0 +1,25 @@
+h1{
+  text-align: center;
+  color:red;
+}
+
+input {
+  text-align: center;
+  margin-left: 100px;
+  height: 30px;
+  width: 300px;
+  background-color:lightsalmon;
+}
+
+button{
+  border-radius: 5px;
+  height: 40px;
+  width: 300px;
+  background-color: green;
+  color:white;
+}
+
+.paragraph{
+  margin: 10px;
+  background-color: aqua;
+}
